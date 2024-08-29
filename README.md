@@ -1,6 +1,5 @@
-# portfolio
 # Hello, I'm MANIKANDAN R
-<a href="https://linkedin.com/in/manikandanr9607"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manikandanrsoc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a fresh Bachelor of Engineering graduate in Electronics and Communication Engineering from the class of 2022. My fascination with the intricate world of cybersecurity led me down a path of self-education and practical training through various online platforms, notably TryHackMe.
 
@@ -14,8 +13,20 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 ## Education
 
 - **Bachelor of Engineering in Electronics and Communication Engineering**  
-  [DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE], [PERAMBALUR]  
-  Class of 2022
+  [Dhanalakshmi Srinivasan Engineering College], [Perambalur]  
+  [2019 -- 2022]
+  [CGPA: 7.81]
+
+- **Diploma in Electronics and Communication Engineering**  
+  [Government Polytechnic College], [Tiruchirappalli]  
+  [2015 -- 2018]
+  [Percentage: 66]
+  
+- **Secondary School Leaving Certificate(SSLC)**  
+  [St. Joseph’s College Higher Secondary School], [Tiruchirappalli]  
+  [2014 -- 2015]
+  [Percentage: 77.4]
+
 
 ## Skills
 
@@ -108,6 +119,6 @@ The Advent of Cyber challenge was not just about tackling daily tasks, but also 
 
 Feel free to connect with me for more information or potential job opportunities:
 
-- **Email:** [smartmani9607@gmail.com](smartmani9607@gmail.com)
-- **LinkedIn:** [https://linkedin.com/in/manikandanr9607](https://linkedin.com/in/manikandanr9607)
-- **GitHub:** [https://linkedin.com/in/manikandanr9607](https://github.com/smartmani9607/MANIKANDAN-R)
+- **Email:** [manikandanrsoc@gmail.com](manikandanrsoc@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/manikandanrsoc](https://www.linkedin.com/in/manikandanrsoc)
+- **GitHub:** [https://github.com/manikandanrsoc/portfolio](https://github.com/manikandanrsoc/portfolio)
