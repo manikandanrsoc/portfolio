@@ -1,124 +1,151 @@
-# Hello, I'm MANIKANDAN R
-<a href="https://www.linkedin.com/in/manikandanrsoc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# **👋 Hello, I'm MANIKANDAN R**
+<a href="https://www.linkedin.com/in/manikandanrsoc/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:manikandanrsoc@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-FF5733?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/smartmani9607">
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-I'm a fresh Bachelor of Engineering graduate in Electronics and Communication Engineering from the class of 2022. My fascination with the intricate world of cybersecurity led me down a path of self-education and practical training through various online platforms, notably TryHackMe.
+---
 
-## Objective
+## **🌟 About Me**
+I am a **Bachelor of Engineering graduate** (Electronics and Communication Engineering, Class of 2022) passionate about **Cybersecurity and SOC Operations**. Over the past two years, I have dedicated myself to mastering **Security Operations Center (SOC) analysis, incident response, and security automation** through practical training and real-world projects.
 
-Over the past two years, I have dedicated myself to mastering the skills necessary for a Security Operations Center (SOC) Analyst. My journey on TryHackMe has not only honed my technical skills but also earned me several certifications, reflecting my commitment and passion for the field.I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-This portfolio is designed to showcase my projects, certifications, and the hands-on experience I've gained in cybersecurity. I am eager to leverage my academic background and practical skills in a professional setting to contribute to safeguarding digital assets and infrastructures.
+## **🎯 Objective**
+This portfolio showcases my **projects, certifications, and hands-on experience** in cybersecurity. My goal is to leverage my **academic background** and **practical skills** to contribute to **safeguarding digital assets and infrastructures** in a professional cybersecurity role.
 
+---
 
-## Education
+## **🎓 Education**
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| **B.E. Electronics & Communication Engineering** | Dhanalakshmi Srinivasan Engineering College, Perambalur | 2019 - 2022 | CGPA: 7.81 |
+| **Diploma in Electronics & Communication** | Government Polytechnic College, Tiruchirappalli | 2015 - 2018 | Percentage: 66% |
+| **Secondary School (SSLC)** | St. Joseph’s College Higher Secondary School, Tiruchirappalli | 2014 - 2015 | Percentage: 77.4% |
 
-- **Bachelor of Engineering in Electronics and Communication Engineering**  
-  [Dhanalakshmi Srinivasan Engineering College], [Perambalur]  
-  [2019 -- 2022]
-  [CGPA: 7.81]
+---
 
-- **Diploma in Electronics and Communication Engineering**  
-  [Government Polytechnic College], [Tiruchirappalli]  
-  [2015 -- 2018]
-  [Percentage: 66]
-  
-- **Secondary School Leaving Certificate(SSLC)**  
-  [St. Joseph’s College Higher Secondary School], [Tiruchirappalli]  
-  [2014 -- 2015]
-  [Percentage: 77.4]
+## **🚀 Skills & Expertise**
+| Skill | Associated Project |
+|------------------------------|-----------------------------------|
+| 🔹 Security Automation (SOAR) | [SOC Automation Lab](https://github.com/smartmani9607/SOC-Automation-Project) |
+| 🔹 Incident Response Planning | [SOC Automation Lab](https://github.com/smartmani9607/SOC-Automation-Project) |
+| 🔹 SIEM Administration (Splunk, Sentinel) | [SIEM Log Analysis](https://github.com/smartmani9607/Active-Directory-Project) |
+| 🔹 Threat Hunting & Telemetry Analysis | [Active Directory Security](https://github.com/smartmani9607/Active-Directory-Project) |
 
+---
 
-## Skills
+## **🛠 Tools & Technologies**
+### **📡 Network Security**
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
-| Event Logging and Monitoring         | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
-| IT Administration | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
-| IT Active Directory Configuration | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
-| Security Testing and Telemetry Analysis | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
-| Splunk Administration and Querying |  <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
+### **🖥️ Endpoint Security**
+![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
 
-## Key Skills
+### **📊 SIEM & Threat Intelligence**
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
 
-- **Cybersecurity Fundamentals:** Strong understanding of security principles, threats, vulnerabilities, and incident response.
-- **Security Monitoring:** Skilled in using tools like Splunk, ELK Stack, and SIEM systems for monitoring and analyzing security events.
-- **Incident Response:** Capable of responding to security breaches and other cyber incidents following established protocols.
-- **Threat Intelligence:** Understanding of threat landscapes and ability to utilize threat intelligence to enhance security measures.
-- **Scripting:** Proficient in scripting languages such as Python and PowerShell for automating tasks and analyzing data.
-- **Networking:** Strong foundation in network protocols, firewalls, intrusion detection systems (IDS), and VPN configurations.
-- **Security Tools and Technologies:** Proficient in using popular tools like Wireshark, Nmap, and SIEM platforms to analyze and respond to security incidents.
-- **Network Security:** Knowledge of network protocols, intrusion detection systems (IDS), and firewall configuration.
-- **Problem Solving:** Excellent analytical and troubleshooting skills, with a focus on quickly identifying and mitigating security risks.
-- **Continuous Learning:** Commitment to ongoing personal and professional development in the dynamic field of cybersecurity.
+---
 
+## **🏆 Certifications**
+| Certification | Issuer |
+|--------------|--------|
+| [SOC Analyst L1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) | TryHackMe |
+| [Jr Penetration Tester](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) | TryHackMe |
+| [Crash Course Python](https://coursera.org/verify/GWKRLW7P36WS) | Coursera |
 
-## Tools
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-snort-data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD" />
-</div>
+## 🎄 TryHackMe Advent of Cyber Participation  
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+I have participated in **TryHackMe's Advent of Cyber** for two consecutive years (2023 & 2024), taking on **24-day cybersecurity challenges** that enhance **SOC operations, penetration testing, threat hunting, and incident response skills**.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## TryHackMe Advent of Cyber 2023 Participation
+## 📅 **Advent of Cyber 2024**  
+For the second consecutive year, I took part in the **TryHackMe Advent of Cyber 2024**, an intensive **24-day cybersecurity challenge** that focused on **real-world SOC operations, penetration testing, and threat intelligence**.
 
-In December 2023, I participated in the [TryHackMe Advent of Cyber](https://tryhackme.com) event, a 24-day intensive cybersecurity challenge. This challenge was an excellent opportunity to deepen my skills across a wide range of cybersecurity domains.
+### 🏆 **Achievements**  
+- 🥇 **Winner of a Clutch Pro USB-C for Android & iPhone 15 Plus**  
+  Recognized for **outstanding performance among thousands of participants**.
+- 📜 **Earned the TryHackMe Advent of Cyber 2024 Certificate**  
+  Successfully completed **all 24 daily cybersecurity challenges**.
 
-### Achievements
-- **Winner of a 3-month TryHackMe Premium Voucher**: Recognized for outstanding performance among participants.
-- **Completed 24 Daily Challenges**: Each challenge focused on a different aspect of cybersecurity, from theoretical concepts to hands-on tasks.
+### 🛠 **Skills Developed**
+- 🚀 **Advanced Threat Hunting** – Strengthened my ability to detect and respond to security incidents.
+- 🔍 **Forensics & Log Analysis** – Improved skills in analyzing logs and system artifacts for security threats.
+- 🛡️ **Incident Response & SOC Analysis** – Applied **real-world SOC methodologies** for monitoring and mitigating cyber threats.
+- 🎭 **Exploit Development & Reverse Engineering** – Gained insights into vulnerability analysis and exploit development.
+- ☁️ **Cloud Security & SIEM Monitoring** – Hands-on experience with **cloud-based security monitoring solutions**.
 
-### Skills Developed
-- **Machine Learning & AI in Security**: Applied machine learning techniques to detect malicious activities.
-- **Log Analysis**: Mastered the art of dissecting and understanding logs for security insights.
-- **Brute-Forcing & Reverse Engineering**: Demonstrated capability in breaking encryption and analyzing software.
-- **Memory & Disk Forensics**: Learned techniques in analyzing both volatile and non-volatile memory.
-- **Malware Analysis & SQL Injection**: Gained hands-on experience in identifying and mitigating malware and database vulnerabilities.
-- **Advanced Topics**: Dived deep into Active Directory, Defence in depth, Intrusion detection, and more.
+### 🔥 **Reflections**
+Participating in **Advent of Cyber 2024** was another exciting milestone in my cybersecurity journey.  
+It provided me with **deeper insights into real-world SOC operations, malware analysis, and security automation**, keeping me ahead in the ever-evolving cybersecurity landscape.
 
-### Reflections
-The Advent of Cyber challenge was not just about tackling daily tasks, but also about integrating comprehensive security practices into a broader understanding of IT infrastructure and cybersecurity. It was immensely rewarding to push the boundaries of what I could achieve in such a condensed timeframe.
+### 📜 **Certifications & Prize**
+- 🏅 **[Certificate of Completion](#)** *(Upload your certificate link here)*  
+- 🎁 **[Prize Announcement](#)** *(Upload a screenshot or link related to the prize announcement if available)*  
 
-[Certificate of Completion](https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc)
-[3 month Tryhackme's Premium Voucher](https://github.com/smartmani9607/my-certifications/blob/main/Gmail%20-%20You've%20won%20a%20prize%20from%20Advent%20of%20Cyber!%20%F0%9F%8E%84.pdf)
+---
 
+## 📅 **Advent of Cyber 2023**  
+In December 2023, I participated in the **TryHackMe Advent of Cyber 2023**, an **intensive 24-day cybersecurity challenge** that allowed me to enhance my **technical skills** across a wide range of cybersecurity domains.
 
-## Certifications
+### 🏆 **Achievements**
+- 🏅 **Winner of a 3-month TryHackMe Premium Voucher**  
+  Recognized for **outstanding performance** among participants.
+- ✅ **Completed all 24 cybersecurity challenges**  
+  Each challenge focused on a different aspect of cybersecurity, from **theoretical concepts** to **hands-on tasks**.
 
-[SOC Analyst L1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png)
-[SOC Analyst Foundation](https://github.com/smartmani9607/my-certifications/blob/main/Screenshot%202024-04-24%20at%2013-23-42%20MANIKANDAN%20R%20-%201682430233351.png?raw=true)
-[Jr Penetration Tester Learning Path](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342?e=1714550400&v=beta&t=YF-Aw3xvSlA5zfro-qBkzQoOI13oxhGLsKrfTDakEqc)
-[Web Fundamentals Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HY6FSW3BHF.png)
-[Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-G7EHKYFCJU.png)
-[Crash Course Python](https://coursera.org/verify/GWKRLW7P36WS)
+### 🛠 **Skills Developed**
+- 🤖 **Machine Learning & AI in Security** – Applied **ML techniques** to detect malicious activities.
+- 🔍 **Log Analysis** – Mastered the art of **dissecting and understanding logs** for security insights.
+- 💻 **Brute-Forcing & Reverse Engineering** – Demonstrated capability in **breaking encryption and analyzing software**.
+- 🛡 **Memory & Disk Forensics** – Learned techniques in **analyzing both volatile and non-volatile memory**.
+- 🔥 **Malware Analysis & SQL Injection** – Gained hands-on experience in **identifying and mitigating malware and database vulnerabilities**.
+- ⚡ **Advanced Topics** – Explored **Active Directory, Defense in Depth, Intrusion Detection, and more**.
 
+### 🔥 **Reflections**
+The **Advent of Cyber 2023** challenge was not just about tackling **daily security tasks**;  
+it was about integrating **comprehensive security practices** into a broader understanding of **IT infrastructure and cybersecurity**.  
+It was **immensely rewarding** to push the boundaries of my cybersecurity skills in such a **short timeframe**.
 
-## Projects
-- <a href="https://github.com/smartmani9607/SOC-Automation-Project/edit/main/README.md">SOC Automation Project</a>
-- <a href="https://github.com/smartmani9607/Active-Directory-Project/blob/main/README.md">Active Directory Project</a>
+### 📜 **Certifications & Prize**
+- 🏅 **[Certificate of Completion](https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc)**
+- 🎁 **[3-month TryHackMe Premium Voucher](https://github.com/smartmani9607/my-certifications/blob/main/Gmail%20-%20You've%20won%20a%20prize%20from%20Advent%20of%20Cyber!%20%F0%9F%8E%84.pdf)**  
 
-## Contact Information
+---
 
-Feel free to connect with me for more information or potential job opportunities:
+💡 *Participating in **TryHackMe Advent of Cyber** has been an incredible learning experience, allowing me to build and refine my cybersecurity skills every year!* 🚀🔥
+ 
 
-- **Email:** [manikandanrsoc@gmail.com](manikandanrsoc@gmail.com)
-- **LinkedIn:** [https://linkedin.com/in/manikandanrsoc](https://www.linkedin.com/in/manikandanrsoc)
-- **GitHub:** [https://github.com/manikandanrsoc/portfolio](https://github.com/manikandanrsoc/portfolio)
+---
+
+## **💻 Featured Projects**
+- **[🔹 SOC Automation Project](https://github.com/smartmani9607/SOC-Automation-Project)**
+  - Implemented **Security Orchestration and Automated Response (SOAR)**
+  - Integrated **TheHive & Shuffle SOAR** for automated security workflows
+
+- **[🔹 Active Directory Security](https://github.com/smartmani9607/Active-Directory-Project)**
+  - Simulated **Enterprise AD Security Scenarios**
+  - Tested **MITRE ATT&CK TTPs for Lateral Movement & Escalation**
+
+---
+
+## **📬 Contact Me**
+💌 **Email**: [manikandanrsoc@gmail.com](mailto:manikandanrsoc@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/manikandanrsoc](https://www.linkedin.com/in/manikandanrsoc)  
+💻 **GitHub**: [github.com/smartmani9607](https://github.com/smartmani9607)  
+
+---
+
+⭐ **Feel free to connect with me for collaborations, cybersecurity discussions, or job opportunities!** 🚀🔥
