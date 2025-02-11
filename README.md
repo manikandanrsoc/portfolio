@@ -92,7 +92,7 @@ Participating in **Advent of Cyber 2024** was another exciting milestone in my c
 It provided me with **deeper insights into real-world SOC operations, malware analysis, and security automation**, keeping me ahead in the ever-evolving cybersecurity landscape.
 
 ### 📜 **Certifications & Prize**
-- 🏅 **[Certificate of Completion](#)** *(Upload your certificate link here)*  
+- 🏅 **[Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1B6GPFK7BR.pdf)** 
 - 🎁 **[Prize Announcement](#)** *(Upload a screenshot or link related to the prize announcement if available)*  
 
 ---
@@ -120,7 +120,7 @@ it was about integrating **comprehensive security practices** into a broader und
 It was **immensely rewarding** to push the boundaries of my cybersecurity skills in such a **short timeframe**.
 
 ### 📜 **Certifications & Prize**
-- 🏅 **[Certificate of Completion](https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc)**
+- 🏅 **[Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDGF0ELSZ6.pdf)**
 - 🎁 **[3-month TryHackMe Premium Voucher](https://github.com/smartmani9607/my-certifications/blob/main/Gmail%20-%20You've%20won%20a%20prize%20from%20Advent%20of%20Cyber!%20%F0%9F%8E%84.pdf)**  
 
 ---
