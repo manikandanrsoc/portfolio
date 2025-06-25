@@ -12,7 +12,13 @@
 ---
 
 ## **🌟 About Me**
-I am a **Bachelor of Engineering graduate** (Electronics and Communication Engineering, Class of 2022) passionate about **Cybersecurity and SOC Operations**. Over the past two years, I have dedicated myself to mastering **Security Operations Center (SOC) analysis, incident response, and security automation** through practical training and real-world projects.
+I am Manikandan R, a passionate and self-driven cybersecurity enthusiast with a Bachelor of Engineering in Electronics and Communication. I specialize in Security Operations Center (SOC) analysis, threat detection, and incident response. I recently earned the globally recognized CompTIA Security+ (SY0-701) certification, strengthening my knowledge across core cybersecurity domains, including security architecture, operations, and risk management.
+
+Over the past few years, I have deepened my cybersecurity skills through hands-on projects, virtual labs, and platforms like TryHackMe, where I completed multiple learning paths such as SOC Analyst, Cyber Defense, and Jr Penetration Tester. I also developed real-world projects like an SOC Automation Lab and Active Directory Security Lab, focusing on SIEM, SOAR, and threat hunting operations.
+
+I have practical experience with tools like Splunk, ELK Stack, Wazuh, TheHive, Velociraptor, Wireshark, and EDR/XDR solutions. I am proficient in scripting with Python and automating workflows to improve detection and response processes. My focus is on strengthening enterprise security, detecting adversarial activities, and responding to incidents effectively.
+
+As a fresher, I am excited to begin my professional journey as a SOC Analyst Level 1 or Cybersecurity Analyst, where I can apply my skills in threat defense, security monitoring, and incident handling to help organizations maintain a secure posture.
 
 ---
 
@@ -57,11 +63,14 @@ This portfolio showcases my **projects, certifications, and hands-on experience*
 ---
 
 ## **🏆 Certifications**
-| Certification | Issuer |
-|--------------|--------|
-| [SOC Analyst L1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) | TryHackMe |
-| [Jr Penetration Tester](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) | TryHackMe |
-| [Crash Course Python](https://coursera.org/verify/GWKRLW7P36WS) | Coursera |
+
+| Certification | Issuer | Credential ID | Verify |
+|------------------------------|---------|--------------------|----------------------------|
+| **CompTIA Security+ (SY0-701)** | CompTIA | 5RHNVST5VBBQYZ32 | [Verify](http://verify.CompTIA.org) |
+| [SOC Analyst L1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) | TryHackMe | - | [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) |
+| [Jr Penetration Tester](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) | TryHackMe | - | [Certificate](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) |
+| [Crash Course Python](https://coursera.org/verify/GWKRLW7P36WS) | Coursera | GWKRLW7P36WS | [Verify](https://coursera.org/verify/GWKRLW7P36WS) |
+
 
 ---
 
