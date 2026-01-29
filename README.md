@@ -144,9 +144,10 @@ It was **immensely rewarding** to push the boundaries of my cybersecurity skills
   - Implemented **Security Orchestration and Automated Response (SOAR)**
   - Integrated **TheHive & Shuffle SOAR** for automated security workflows
 
-- **[🔹 Active Directory Security](https://github.com/smartmani9607/Active-Directory-Project)**
-  - Simulated **Enterprise AD Security Scenarios**
-  - Tested **MITRE ATT&CK TTPs for Lateral Movement & Escalation**
+- **[🔹SOC Automation Project 2.0](https://github.com/manikandanrsoc/SOC-Automation-Project-2.0)**
+  - **Built an end-to-end SOC automation pipeline using Splunk, n8n, and OpenAI that transforms security alerts into MITRE ATT&CK–aligned, enriched, and analyst-ready intelligence delivered in real time to Slack.**
+  - **Designed and implemented AI-assisted alert triage with automated IOC enrichment (AbuseIPDB), severity assessment, and response recommendations, reducing manual Tier-1 SOC analysis effort.**
+
 
 ---
 
