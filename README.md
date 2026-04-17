@@ -178,6 +178,7 @@ Competed in **Advent of Cyber for 2 consecutive years** — 24-day intensive CTF
 
 | Year | Outcome | Prize |
 |---|---|---|
+| **Advent of Cyber 2025** | ✅ Completed all 24 challenges | 🥇 Participate in the event — [Certificate ↗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QOMFGMTA5I.pdf) |
 | **Advent of Cyber 2024** | ✅ Completed all 24 challenges | 🥇 Clutch Pro USB-C — [Certificate ↗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1B6GPFK7BR.pdf) |
 | **Advent of Cyber 2023** | ✅ Completed all 24 challenges | 🥇 3-Month TryHackMe Premium — [Certificate ↗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDGF0ELSZ6.pdf) |
 
