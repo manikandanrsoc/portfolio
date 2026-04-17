@@ -1,161 +1,211 @@
-# **👋 Hello, I'm MANIKANDAN R**
-<a href="https://www.linkedin.com/in/manikandanrsoc/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:manikandanrsoc@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-FF5733?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/smartmani9607">
-  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<h1 align="center">Hi, I'm Manikandan R 👋</h1>
+
+<h3 align="center">SOC Analyst L1 &nbsp;|&nbsp; CompTIA Security+ Certified &nbsp;|&nbsp; Threat Detection & Incident Response</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manikandanrsoc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:manikandanrsoc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/smartmani9607">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/smartmani9607">
+    <img src="https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## **🌟 About Me**
-I am Manikandan R, a passionate and self-driven cybersecurity enthusiast with a Bachelor of Engineering in Electronics and Communication. I specialize in Security Operations Center (SOC) analysis, threat detection, and incident response. I recently earned the globally recognized CompTIA Security+ (SY0-701) certification, strengthening my knowledge across core cybersecurity domains, including security architecture, operations, and risk management.
+## 📊 By the Numbers
 
-Over the past few years, I have deepened my cybersecurity skills through hands-on projects, virtual labs, and platforms like TryHackMe, where I completed multiple learning paths such as SOC Analyst, Cyber Defense, and Jr Penetration Tester. I also developed real-world projects like an SOC Automation Lab and Active Directory Security Lab, focusing on SIEM, SOAR, and threat hunting operations.
-
-I have practical experience with tools like Splunk, ELK Stack, Wazuh, TheHive, Velociraptor, Wireshark, and EDR/XDR solutions. I am proficient in scripting with Python and automating workflows to improve detection and response processes. My focus is on strengthening enterprise security, detecting adversarial activities, and responding to incidents effectively.
-
-As a fresher, I am excited to begin my professional journey as a SOC Analyst Level 1 or Cybersecurity Analyst, where I can apply my skills in threat defense, security monitoring, and incident handling to help organizations maintain a secure posture.
-
----
-
-## **🎯 Objective**
-This portfolio showcases my **projects, certifications, and hands-on experience** in cybersecurity. My goal is to leverage my **academic background** and **practical skills** to contribute to **safeguarding digital assets and infrastructures** in a professional cybersecurity role.
+<p align="center">
+  <img src="https://img.shields.io/badge/Alerts_Triaged-35-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/True_Positive_Rate-100%25-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/False_Positive_Rate-100%25-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/MTTR-2_minutes-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/TryHackMe_Rank-Top_3%25-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOC_Scenarios_Completed-2-purple?style=flat-square" />
+</p>
 
 ---
 
-## **🎓 Education**
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| **B.E. Electronics & Communication Engineering** | Dhanalakshmi Srinivasan Engineering College, Perambalur | 2019 - 2022 | CGPA: 7.81 |
-| **Diploma in Electronics & Communication** | Government Polytechnic College, Tiruchirappalli | 2015 - 2018 | Percentage: 66% |
-| **Secondary School (SSLC)** | St. Joseph’s College Higher Secondary School, Tiruchirappalli | 2014 - 2015 | Percentage: 77.4% |
+## 🧑‍💻 About Me
+
+CompTIA Security+ certified SOC Analyst with **3+ years of self-directed, hands-on training** in threat detection, SIEM operations, log analysis, and security automation. I don't just study cybersecurity — I build labs, triage real alerts, and document findings the way a real SOC does.
+
+- 🔍 Closed **35 real-time alerts** in TryHackMe's SOC Simulator with **100% accuracy**
+- 🛠️ Built **two end-to-end SOC automation labs** — from SIEM setup to AI-assisted alert triage
+- 📜 Holds **CompTIA Security+ (SY0-701)** — Credential ID: `5RHNVST5VBBQYZ32`
+- 🏆 **Top 3% globally** on TryHackMe — won prizes in Advent of Cyber 2023 & 2024
+- 📍 Based in Bangalore, India — **Open to relocate anywhere in India**
+- 💼 Actively seeking **SOC Analyst L1** and **Cybersecurity Analyst** roles
 
 ---
 
-## **🚀 Skills & Expertise**
-| Skill | Associated Project |
-|------------------------------|-----------------------------------|
-| 🔹 Security Automation (SOAR) | [SOC Automation Lab](https://github.com/smartmani9607/SOC-Automation-Project) |
-| 🔹 Incident Response Planning | [SOC Automation Lab](https://github.com/smartmani9607/SOC-Automation-Project) |
-| 🔹 SIEM Administration (Splunk, Sentinel) | [SIEM Log Analysis](https://github.com/smartmani9607/Active-Directory-Project) |
-| 🔹 Threat Hunting & Telemetry Analysis | [Active Directory Security](https://github.com/smartmani9607/Active-Directory-Project) |
+## 🛠️ Tech Stack & Tools
+
+### SIEM & Log Analysis
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3A76F0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Threat Detection & Response
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E60026?style=for-the-badge&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFA500?style=for-the-badge&logoColor=white)
+![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-6C3483?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Network & Endpoint Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Scripting & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## **🛠 Tools & Technologies**
-### **📡 Network Security**
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
-![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
+## 🔴 Live SOC Experience — TryHackMe SOC Simulator
 
-### **🖥️ Endpoint Security**
-![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
+> Real alerts. Real triage. Real documentation. No sandbox hand-holding.
 
-### **📊 SIEM & Threat Intelligence**
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
+### Scenario 1 — Phishing Unfolding ✅
+**A live phishing attack unfolding across a corporate network in real time.**
 
----
+| Metric | Result |
+|---|---|
+| Total Alerts Closed | **35** |
+| True Positive Rate | **100%** ✅ |
+| False Positive Rate | **100%** ✅ |
+| Mean Time to Resolve | **2 minutes** |
+| Outcome | **Security breach prevented** 🛡️ |
 
-## **🏆 Certifications**
+**Alert types handled:**
+- `Suspicious Parent-Child Process Relationships` (High/Medium/Low)
+- `PowerShell Script execution in Downloads folder`
+- `Suspicious email attachment`
+- `Network drive mapping / disconnection events`
+- `Suspicious DNS requests`
+- `External domain phishing emails`
 
-| Certification | Issuer | Credential ID | Verify |
-|------------------------------|---------|--------------------|----------------------------|
-| **CompTIA Security+ (SY0-701)** | CompTIA | 5RHNVST5VBBQYZ32 | [Verify](http://verify.CompTIA.org) |
-| [SOC Analyst L1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) | TryHackMe | - | [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) |
-| [Jr Penetration Tester](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) | TryHackMe | - | [Certificate](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) |
-| [Crash Course Python](https://coursera.org/verify/GWKRLW7P36WS) | Coursera | GWKRLW7P36WS | [Verify](https://coursera.org/verify/GWKRLW7P36WS) |
+**Key skills demonstrated:**
+- Real-time multi-alert correlation across an active attack chain
+- PowerShell execution detection & process tree analysis
+- Phishing email triage — header analysis, URL inspection, attachment review
+- Incident report writing covering Who / What / When / Where / Why
 
-
----
-
-## 🎄 TryHackMe Advent of Cyber Participation  
-
-I have participated in **TryHackMe's Advent of Cyber** for two consecutive years (2023 & 2024), taking on **24-day cybersecurity challenges** that enhance **SOC operations, penetration testing, threat hunting, and incident response skills**.
-
----
-
-## 📅 **Advent of Cyber 2024**  
-For the second consecutive year, I took part in the **TryHackMe Advent of Cyber 2024**, an intensive **24-day cybersecurity challenge** that focused on **real-world SOC operations, penetration testing, and threat intelligence**.
-
-### 🏆 **Achievements**  
-- 🥇 **Winner of a Clutch Pro USB-C for Android & iPhone 15 Plus**  
-  Recognized for **outstanding performance among thousands of participants**.
-- 📜 **Earned the TryHackMe Advent of Cyber 2024 Certificate**  
-  Successfully completed **all 24 daily cybersecurity challenges**.
-
-### 🛠 **Skills Developed**
-- 🚀 **Advanced Threat Hunting** – Strengthened my ability to detect and respond to security incidents.
-- 🔍 **Forensics & Log Analysis** – Improved skills in analyzing logs and system artifacts for security threats.
-- 🛡️ **Incident Response & SOC Analysis** – Applied **real-world SOC methodologies** for monitoring and mitigating cyber threats.
-- 🎭 **Exploit Development & Reverse Engineering** – Gained insights into vulnerability analysis and exploit development.
-- ☁️ **Cloud Security & SIEM Monitoring** – Hands-on experience with **cloud-based security monitoring solutions**.
-
-### 🔥 **Reflections**
-Participating in **Advent of Cyber 2024** was another exciting milestone in my cybersecurity journey.  
-It provided me with **deeper insights into real-world SOC operations, malware analysis, and security automation**, keeping me ahead in the ever-evolving cybersecurity landscape.
-
-### 📜 **Certifications & Prize**
-- 🏅 **[Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1B6GPFK7BR.pdf)** 
-- 🎁 **[Prize Announcement](#)** *(Upload a screenshot or link related to the prize announcement if available)*  
+📄 [Full write-up →](./SOC-Simulator-Phishing-Unfolding.md)
 
 ---
 
-## 📅 **Advent of Cyber 2023**  
-In December 2023, I participated in the **TryHackMe Advent of Cyber 2023**, an **intensive 24-day cybersecurity challenge** that allowed me to enhance my **technical skills** across a wide range of cybersecurity domains.
+### Scenario 2 — Introduction to Phishing ✅
 
-### 🏆 **Achievements**
-- 🏅 **Winner of a 3-month TryHackMe Premium Voucher**  
-  Recognized for **outstanding performance** among participants.
-- ✅ **Completed all 24 cybersecurity challenges**  
-  Each challenge focused on a different aspect of cybersecurity, from **theoretical concepts** to **hands-on tasks**.
+| Metric | Result |
+|---|---|
+| Total Alerts Closed | **10** |
+| True Positive Rate | **100%** ✅ |
+| False Positive Rate | **100%** ✅ |
+| Mean Time to Resolve | **1 minute** |
+| Outcome | **Security breach prevented** 🛡️ |
 
-### 🛠 **Skills Developed**
-- 🤖 **Machine Learning & AI in Security** – Applied **ML techniques** to detect malicious activities.
-- 🔍 **Log Analysis** – Mastered the art of **dissecting and understanding logs** for security insights.
-- 💻 **Brute-Forcing & Reverse Engineering** – Demonstrated capability in **breaking encryption and analyzing software**.
-- 🛡 **Memory & Disk Forensics** – Learned techniques in **analyzing both volatile and non-volatile memory**.
-- 🔥 **Malware Analysis & SQL Injection** – Gained hands-on experience in **identifying and mitigating malware and database vulnerabilities**.
-- ⚡ **Advanced Topics** – Explored **Active Directory, Defense in Depth, Intrusion Detection, and more**.
-
-### 🔥 **Reflections**
-The **Advent of Cyber 2023** challenge was not just about tackling **daily security tasks**;  
-it was about integrating **comprehensive security practices** into a broader understanding of **IT infrastructure and cybersecurity**.  
-It was **immensely rewarding** to push the boundaries of my cybersecurity skills in such a **short timeframe**.
-
-### 📜 **Certifications & Prize**
-- 🏅 **[Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDGF0ELSZ6.pdf)**
-- 🎁 **[3-month TryHackMe Premium Voucher](https://github.com/smartmani9607/my-certifications/blob/main/Gmail%20-%20You've%20won%20a%20prize%20from%20Advent%20of%20Cyber!%20%F0%9F%8E%84.pdf)**  
+📄 [Full write-up →](./SOC-Simulator-Intro-Phishing.md)
 
 ---
 
-💡 *Participating in **TryHackMe Advent of Cyber** has been an incredible learning experience, allowing me to build and refine my cybersecurity skills every year!* 🚀🔥
- 
+## 💻 Featured Projects
+
+### 🔹 SOC Automation Lab 2.0
+> AI-driven SOC pipeline: SIEM → Enrichment → AI Triage → Analyst-ready alerts in Slack
+
+**What it does:**
+- Ingests Splunk SIEM alerts and routes them through an automated pipeline via **n8n SOAR**
+- Enriches IOCs automatically using the **AbuseIPDB API**
+- Maps alerts to **MITRE ATT&CK** framework techniques
+- Uses **OpenAI** to generate analyst-ready triage summaries and response recommendations
+- Delivers enriched, severity-assessed alerts to **Slack** in real time
+
+**Stack:** `Splunk` `n8n` `OpenAI API` `AbuseIPDB` `MITRE ATT&CK` `Slack`
+
+**Impact:** Simulates Tier-1 SOC automation — reduces manual alert analysis time and improves triage consistency
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manikandanrsoc/SOC-Automation-Project-2.0)
 
 ---
 
-## **💻 Featured Projects**
-- **[🔹 SOC Automation Project](https://github.com/smartmani9607/SOC-Automation-Project)**
-  - Implemented **Security Orchestration and Automated Response (SOAR)**
-  - Integrated **TheHive & Shuffle SOAR** for automated security workflows
+### 🔹 SOC Automation Lab 1.0
+> Full SOC stack deployed from scratch: Wazuh + TheHive + Shuffle SOAR
 
-- **[🔹SOC Automation Project 2.0](https://github.com/manikandanrsoc/SOC-Automation-Project-2.0)**
-  - **Built an end-to-end SOC automation pipeline using Splunk, n8n, and OpenAI that transforms security alerts into MITRE ATT&CK–aligned, enriched, and analyst-ready intelligence delivered in real time to Slack.**
-  - **Designed and implemented AI-assisted alert triage with automated IOC enrichment (AbuseIPDB), severity assessment, and response recommendations, reducing manual Tier-1 SOC analysis effort.**
+**What it does:**
+- Deploys **Wazuh** as SIEM/EDR on cloud infrastructure
+- Integrates **TheHive** for case management and alert-to-case automation
+- Orchestrates response workflows using **Shuffle SOAR**
+- Automated the full alert lifecycle: detection → case creation → response playbook execution
 
+**Stack:** `Wazuh` `TheHive` `Shuffle SOAR` `Cloud (DigitalOcean/AWS)` `Linux`
 
----
-
-## **📬 Contact Me**
-💌 **Email**: [manikandanrsoc@gmail.com](mailto:manikandanrsoc@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/manikandanrsoc](https://www.linkedin.com/in/manikandanrsoc)  
-💻 **GitHub**: [github.com/smartmani9607](https://github.com/smartmani9607)  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartmani9607/SOC-Automation-Project)
 
 ---
 
-⭐ **Feel free to connect with me for collaborations, cybersecurity discussions, or job opportunities!** 🚀🔥
+## 🏆 Certifications
+
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| **CompTIA Security+ (SY0-701)** | CompTIA | Jun 2025 | [Verify ↗](http://verify.CompTIA.org) — ID: `5RHNVST5VBBQYZ32` |
+| **SOC Analyst Level 1** | TryHackMe | Apr 2024 | [Certificate ↗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png) |
+| **Cyber Defense Learning Path** | TryHackMe | Aug 2024 | [Certificate ↗](#) |
+| **Jr Penetration Tester** | TryHackMe | Feb 2023 | [Certificate ↗](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342) |
+| **Phishing Analysis — Phish Hunter Badge** | TryHackMe | 2025 | [Badge ↗](#) |
+| **Cybersecurity for Students** | LetsDefend | Jul 2025 | [Certificate ↗](#) |
+| **Crash Course on Python** | Coursera | Jul 2022 | [Verify ↗](https://coursera.org/verify/GWKRLW7P36WS) — ID: `GWKRLW7P36WS` |
+
+---
+
+## 🎄 TryHackMe Advent of Cyber
+
+Competed in **Advent of Cyber for 2 consecutive years** — 24-day intensive CTF-style challenges covering SOC operations, forensics, malware analysis, cloud security, and penetration testing basics.
+
+| Year | Outcome | Prize |
+|---|---|---|
+| **Advent of Cyber 2024** | ✅ Completed all 24 challenges | 🥇 Clutch Pro USB-C — [Certificate ↗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1B6GPFK7BR.pdf) |
+| **Advent of Cyber 2023** | ✅ Completed all 24 challenges | 🥇 3-Month TryHackMe Premium — [Certificate ↗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDGF0ELSZ6.pdf) |
+
+**Skills built across both events:**
+`Threat Hunting` `Log Analysis` `Memory Forensics` `Malware Analysis` `Cloud Security (AWS)` `SIEM Monitoring` `Active Directory` `Reverse Engineering Basics` `SQL Injection` `Defense in Depth`
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Grade |
+|---|---|---|---|
+| B.E. Electronics & Communication Engineering | Dhanalakshmi Srinivasan Engineering College, Perambalur | 2019–2022 | CGPA: 7.81 |
+| Diploma in Electronics & Communication | Government Polytechnic College, Tiruchirappalli | 2015–2018 | 66% |
+| SSLC | St. Joseph's College Higher Secondary School, Tiruchirappalli | 2014–2015 | 77.4% |
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:manikandanrsoc@gmail.com">📧 manikandanrsoc@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/manikandanrsoc/">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/smartmani9607">💻 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://tryhackme.com/p/smartmani9607">🎯 TryHackMe</a>
+</p>
+
+<p align="center">
+  <i>Open to SOC Analyst L1, Cybersecurity Analyst, and Security Operations roles across India.</i><br/>
+  <i>If you're a recruiter or hiring manager — feel free to reach out directly on LinkedIn or email.</i>
+</p>
