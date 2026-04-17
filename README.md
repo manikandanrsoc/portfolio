@@ -43,7 +43,7 @@ CompTIA Security+ certified SOC Analyst with **3+ years of self-directed, hands-
 - 🔍 Closed **35 real-time alerts** in TryHackMe's SOC Simulator with **100% accuracy**
 - 🛠️ Built **two end-to-end SOC automation labs** — from SIEM setup to AI-assisted alert triage
 - 📜 Holds **CompTIA Security+ (SY0-701)** — Credential ID: `5RHNVST5VBBQYZ32`
-- 🏆 **Top 3% globally** on TryHackMe — won prizes in Advent of Cyber 2023 & 2024
+- 🏆 **Top 1% globally** on TryHackMe — won prizes in Advent of Cyber 2023 & 2024
 - 📍 Based in Bangalore, India — **Open to relocate anywhere in India**
 - 💼 Actively seeking **SOC Analyst L1** and **Cybersecurity Analyst** roles
 
