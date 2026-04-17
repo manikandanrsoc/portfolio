@@ -16,7 +16,8 @@
   </a>
   &nbsp;
   <a href="https://tryhackme.com/p/smartmani9607">
-    <img src="https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
   </a>
 </p>
 
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/True_Positive_Rate-100%25-success?style=flat-square" />
   <img src="https://img.shields.io/badge/False_Positive_Rate-100%25-success?style=flat-square" />
   <img src="https://img.shields.io/badge/MTTR-2_minutes-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/TryHackMe_Rank-Top_3%25-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/TryHackMe_Rank-Top_1%25-red?style=flat-square" />
   <img src="https://img.shields.io/badge/SOC_Scenarios_Completed-2-purple?style=flat-square" />
 </p>
 
