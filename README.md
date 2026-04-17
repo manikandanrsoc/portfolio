@@ -106,7 +106,7 @@ CompTIA Security+ certified SOC Analyst with **3+ years of self-directed, hands-
 - Phishing email triage — header analysis, URL inspection, attachment review
 - Incident report writing covering Who / What / When / Where / Why
 
-📄 [Full write-up →](./SOC-Simulator-Phishing-Unfolding.md)
+📄 [Full write-up →](https://github.com/manikandanrsoc/portfolio/blob/main/README%20(1).md)
 
 ---
 
